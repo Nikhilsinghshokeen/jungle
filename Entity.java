@@ -1,5 +1,5 @@
-//Samarth Chetan
-//June 16, 2023
+//Nikhil Shokeen
+//4/4/2025
 //This is the parent class for the character, and it initializes the character attributes
 
 package jungle;

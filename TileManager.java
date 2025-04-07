@@ -1,5 +1,5 @@
-//Samarth Chetan
-//June 16, 2023
+//Nikhil Shokeen
+//4/4/2025
 //This class handles the non-interactive png tiles and allows it to be loaded into the game map
 
 package jungle;

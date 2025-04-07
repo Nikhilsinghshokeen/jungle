@@ -1,5 +1,5 @@
-//Samarth Chetan
-//June 16, 2023
+//Nikhil Shokeen
+//4/4/2025
 //This class displays the parts of the user interface, which the player can see on the screen
 
 package jungle;

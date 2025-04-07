@@ -1,5 +1,5 @@
-//Samarth Chetan
-//June 16, 2023
+//Nikhil Shokeen
+//4/4/2025
 //This class initializes the two necessary variables for a general tile
 
 package jungle;
